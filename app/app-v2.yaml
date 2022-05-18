@@ -41,3 +41,4 @@ spec:
             path: /ready
             port: probe
           periodSeconds: 5
+          
